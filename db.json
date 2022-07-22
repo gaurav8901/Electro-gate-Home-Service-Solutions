@@ -1,0 +1,3867 @@
+{
+   "users": [
+       {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "AC",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "AC",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "AC",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "AC",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "AC",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "AC",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "Inactive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "AC",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "Inactive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "AC",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "AC",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "AC",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "AC",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "Inactive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "AC",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "AC",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "AC",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "AC",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "AC",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "Inactive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Television",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+       
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Television",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Television",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Television",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Television",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Television",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Television",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Television",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Television",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Television",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Television",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Television",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "InActive" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Television",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Television",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "InActive" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Television",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Television",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Vaccum Cleaner",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Vaccum Cleaner",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Vaccum Cleaner",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Vaccum Cleaner",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "InActive" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Vaccum Cleaner",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "InActive" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Vaccum Cleaner",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Vaccum Cleaner",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Vaccum Cleaner",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Vaccum Cleaner",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "InActive" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Vaccum Cleaner",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Vaccum Cleaner",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Vaccum Cleaner",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Vaccum Cleaner",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Vaccum Cleaner",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Vaccum Cleaner",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Vaccum Cleaner",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Electric Fan",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Electric Fan",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Electric Fan",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Electric Fan",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Electric Fan",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "InActive" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Electric Fan",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Electric Fan",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Electric Fan",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "InActive" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Electric Fan",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Electric Fan",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Electric Fan",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Electric Fan",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Electric Fan",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "InActive" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Electric Fan",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Electric Fan",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Electric Fan",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Washing Machine",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Washing Machine",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Washing Machine",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Washing Machine",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Washing Machine",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Washing Machine",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Washing Machine",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Washing Machine",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Washing Machine",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Washing Machine",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Washing Machine",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Washing Machine",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Washing Machine",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Washing Machine",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Washing Machine",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Washing Machine",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Water Purifier",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Water Purifier",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Water Purifier",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Water Purifier",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Water Purifier",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Water Purifier",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Water Purifier",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Water Purifier",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Water Purifier",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Water Purifier",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Water Purifier",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Water Purifier",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Water Purifier",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Water Purifier",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Water Purifier",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Water Purifier",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Mobile",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Mobile",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Mobile",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Mobile",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Mobile",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Mobile",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Mobile",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Mobile",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Mobile",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Mobile",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Mobile",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Mobile",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Mobile",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Mobile",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Mobile",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Mobile",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Laptop",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Laptop",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Laptop",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Laptop",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Laptop",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Laptop",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Laptop",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Laptop",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Laptop",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Laptop",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Laptop",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Laptop",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Laptop",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Laptop",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Laptop",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Laptop",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Desk Lamp",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Desk Lamp",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Desk Lamp",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Desk Lamp",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Desk Lamp",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Desk Lamp",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Desk Lamp",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Desk Lamp",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Desk Lamp",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Desk Lamp",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Desk Lamp",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Desk Lamp",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Desk Lamp",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Desk Lamp",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Desk Lamp",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Desk Lamp",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Gaming Console",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Gaming Console",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Gaming Console",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Gaming Console",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Gaming Console",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Gaming Console",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Gaming Console",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Gaming Console",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Gaming Console",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Gaming Console",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Gaming Console",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Gaming Console",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Gaming Console",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Gaming Console",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Gaming Console",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Gaming Console",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Speaker",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Speaker",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Speaker",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Speaker",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Speaker",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Speaker",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Speaker",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Speaker",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Speaker",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Speaker",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Speaker",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Speaker",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Speaker",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Speaker",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Speaker",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Speaker",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Computer Accessories",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Computer Accessories",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Computer Accessories",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Computer Accessories",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Computer Accessories",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Computer Accessories",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "Active" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Computer Accessories",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "Active" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Computer Accessories",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Computer Accessories",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Computer Accessories",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Computer Accessories",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "Active" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Computer Accessories",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Computer Accessories",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Computer Accessories",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Computer Accessories",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Computer Accessories",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "Active" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Microwave",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Microwave",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Microwave",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Microwave",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Microwave",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Microwave",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Microwave",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Microwave",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Microwave",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Microwave",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Microwave",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Microwave",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Microwave",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Microwave",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Microwave",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Microwave",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Electric Kettle",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Electric Kettle",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Electric Kettle",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Electric Kettle",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Electric Kettle",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Electric Kettle",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Electric Kettle",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Electric Kettle",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Electric Kettle",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Electric Kettle",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Electric Kettle",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Electric Kettle",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Electric Kettle",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Electric Kettle",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Electric Kettle",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Electric Kettle",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Dishwasher",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Dishwasher",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Dishwasher",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Dishwasher",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Dishwasher",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Dishwasher",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Dishwasher",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Dishwasher",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Dishwasher",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Dishwasher",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Dishwasher",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Dishwasher",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Dishwasher",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Dishwasher",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Dishwasher",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Dishwasher",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Kitchen Hood",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Kitchen Hood",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Kitchen Hood",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Kitchen Hood",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Kitchen Hood",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Kitchen Hood",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Kitchen Hood",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Kitchen Hood",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Kitchen Hood",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Kitchen Hood",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Kitchen Hood",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Kitchen Hood",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Kitchen Hood",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Kitchen Hood",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Kitchen Hood",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Kitchen Hood",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Mixer Grinder",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Mixer Grinder",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Mixer Grinder",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Mixer Grinder",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Mixer Grinder",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Mixer Grinder",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Mixer Grinder",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Mixer Grinder",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Mixer Grinder",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Mixer Grinder",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Mixer Grinder",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Mixer Grinder",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Mixer Grinder",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Mixer Grinder",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Mixer Grinder",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Mixer Grinder",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Refridgerator",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Refridgerator",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Refridgerator",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Refridgerator",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Refridgerator",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Refridgerator",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Refridgerator",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Refridgerator",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Refridgerator",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Refridgerator",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Refridgerator",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Refridgerator",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Refridgerator",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Refridgerator",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Refridgerator",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Refridgerator",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Bulbs",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Bulbs",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Bulbs",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Bulbs",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Bulbs",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Bulbs",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Bulbs",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Bulbs",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Bulbs",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Bulbs",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Bulbs",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Bulbs",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Bulbs",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Bulbs",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Bulbs",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Bulbs",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "String LED Light",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "String LED Light",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "String LED Light",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "String LED Light",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "String LED Light",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "String LED Light",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "String LED Light",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "String LED Light",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "String LED Light",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "String LED Light",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "String LED Light",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "String LED Light",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "String LED Light",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "String LED Light",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "String LED Light",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "String LED Light",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Lamps",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Lamps",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Lamps",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Lamps",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Lamps",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Lamps",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Lamps",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Lamps",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Lamps",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Lamps",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Lamps",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Lamps",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Lamps",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Lamps",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Lamps",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Lamps",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Projector",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Projector",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Projector",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Projector",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Projector",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Projector",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Projector",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Projector",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Projector",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Projector",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Projector",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Projector",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Projector",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Projector",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Projector",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Projector",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },{
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "Clock",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "Clock",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "Clock",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "Clock",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "Clock",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "Clock",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "Clock",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "Clock",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "Clock",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "Clock",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "Clock",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "Clock",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "Clock",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "Clock",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "Clock",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "Clock",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        },
+        {
+          "name": "Ram",
+          "email": "ram@gmail.com",
+          "phone": "9878987898",
+          "service": "CCTV",
+          "address": "Allahabad",
+          "pincode": "211019",
+          "id": 1,
+          "status": "Active" 
+       },
+      
+       {
+           "name": "Shant Singh",
+           "email": "shant@gmail.com",
+           "phone": "9878987809",
+           "service": "CCTV",
+           "address": "Allahabad",
+           "pincode": "210006",
+           "id": 2,
+           "status": "Active" 
+        },
+        {
+           "name": "Tuta Kumar",
+           "email": "tuta@gmail.com",
+           "phone": "9078987898",
+           "service": "CCTV",
+           "address": "Allahabad",
+           "pincode": "211009",
+           "id": 3,
+           "status": "Active" 
+        },
+        {
+           "name": "Hari Ram",
+           "email": "hari@gmail.com",
+           "phone": "9878978898",
+           "service": "CCTV",
+           "address": "Allahabad",
+           "pincode": "210009",
+           "id": 4,
+           "status": "Active" 
+        },
+        {
+           "name": "Gaurav Singh",
+           "email": "gauravsingh@gmail.com",
+           "phone": "9878980098",
+           "service": "CCTV",
+           "address": "Delhi",
+           "pincode": "100001",
+           "id": 5,
+           "status": "Active" 
+        },
+        {
+           "name": "ujju ghar",
+           "email": "ujju@gmail.com",
+           "phone": "9654987898",
+           "service": "CCTV",
+           "address": "Delhi",
+           "pincode": "100002",
+           "id": 6,
+           "status": "InActive" 
+        },
+        {
+           "name": "Op yadav",
+           "email": "opyadav@gmail.com",
+           "phone": "9878018898",
+           "service": "CCTV",
+           "address": "Delhi",
+           "pincode": "100003",
+           "id": 7,
+           "status": "InActive" 
+        },
+        {
+           "name": "Uyas Singh",
+           "email": "uyas@gmail.com",
+           "phone": "9878988768",
+           "service": "CCTV",
+           "address": "Delhi",
+           "pincode": "100007",
+           "id": 8,
+           "status": "Active" 
+        },
+        {
+           "name": "Iyas",
+           "email": "iyas@gmail.com",
+           "phone": "7678987898",
+           "service": "CCTV",
+           "address": "Haryana",
+           "pincode": "600001",
+           "id": 9,
+           "status": "Active" 
+        },
+        {
+           "name": "Mridul",
+           "email": "mridul@gmail.com",
+           "phone": "9908987898",
+           "service": "CCTV",
+           "address": "Haryana",
+           "pincode": "600002",
+           "id": 10,
+           "status": "Active" 
+        },
+        {
+           "name": "tamesh",
+           "email": "tamesh@gmail.com",
+           "phone": "9898767898",
+           "service": "CCTV",
+           "address": "Haryana",
+           "pincode": "600003",
+           "id": 11,
+           "status": "InActive" 
+        },
+        {
+           "name": "Yash",
+           "email": "yash@gmail.com",
+           "phone": "9978987898",
+           "service": "CCTV",
+           "address": "Haryana",
+           "pincode": "600004",
+           "id": 12,
+           "status": "Active" 
+        },
+        {
+           "name": "Prakash",
+           "email": "prakash@gmail.com",
+           "phone": "9878987865",
+           "service": "CCTV",
+           "address": "Guwahati",
+           "pincode": "781015",
+           "id": 13,
+           "status": "Active" 
+        },
+        {
+           "name": "Kala Kalita",
+           "email": "kalahu@gmail.com",
+           "phone": "9878987688",
+           "service": "CCTV",
+           "address": "Guwahati",
+           "pincode": "211019",
+           "id": 14,
+           "status": "Active" 
+        },
+        {
+           "name": "Sona Barman",
+           "email": "sonaji@gmail.com",
+           "phone": "9878987898",
+           "service": "CCTV",
+           "address": "Guwahati",
+           "pincode": "781019",
+           "id": 15,
+           "status": "Active" 
+        },
+        {
+           "name": "Anoop deka",
+           "email": "deka@gmail.com",
+           "phone": "9878987898",
+           "service": "CCTV",
+           "address": "Guwahati",
+           "pincode": "781016",
+           "id": 16,
+           "status": "InActive" 
+        }
+ 
+   ]
+ }
